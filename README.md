@@ -7,7 +7,7 @@
 <!-- Here are some ideas to get you started: -->
 
 - 🔭 I’m currently working as a stay-at-home mom.
-- 🌱 I’m currently learning PHP, MySQL, Docker, Git.
+- 🌱 I’m currently learning PHP, Laravel, MySQL, Docker, Git.
 <!-- - 👯 I’m looking to collaborate on ... -->
 <!-- - 🤔 I’m looking for help with ...
 - 💬 Ask me about ...
